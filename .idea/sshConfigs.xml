@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="http://localhost:8888/tree?token=1c79b53225ccb2f758dae24eae8bb200d49621b4981e6799" id="eb9c02b0-c131-4f21-a183-9c0f7512fb7e" port="8888" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
